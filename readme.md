@@ -2,6 +2,8 @@
 
 The classic hangman game built for the CLI using React Ink and TypeScript.
 
+Feel free to submit PRs, whether its just for new categories or code changes :)
+
 ## CLI
 
 ```
